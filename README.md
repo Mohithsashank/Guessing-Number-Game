@@ -1,6 +1,5 @@
-# OIBSIP-Task_2
 
-Guessing Number Game
+** Guessing Number Game **
 
     If the guessed range is larger than the particular range, the program can respond with the message that the guessed range is beyond the particular range.
 
